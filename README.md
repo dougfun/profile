@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available [@dougfun](github.com/dougfun/Projects)
 
-- 💬 Ask me about **System Designs and Philosophy**
+- 💬 Ask me about **Business and Philosophy**
 
 - ⚡ Fun fact **Coding is more of a passion than a profession.**
 
